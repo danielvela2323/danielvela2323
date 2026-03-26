@@ -1,4 +1,4 @@
-# 👋 Hola, soy Daniel Tecan
+# 👋 Hola, soy Daniel Vela
 
 💻 Desarrollador de software enfocado en desarrollo móvil y web
 🎓 Ingeniero en Sistemas Computacionales (en proceso de titulación)
@@ -12,7 +12,7 @@
 * 📱 Desarrollo móvil: Android (Kotlin, Java)
 * 🌐 Web: HTML, CSS, Bootstrap
 * 🗄️ Bases de datos: MySQL, SQLite
-* 🔧 Herramientas: Git, GitHub, Android Studio, VS Code
+* 🔧 Herramientas: Git, GitHub, Android Studio, VS Code, IntelliJ IDEA
 * ⚙️ Otros: XML, Arduino, IoT
 
 ---
