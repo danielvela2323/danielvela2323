@@ -1,6 +1,6 @@
 # 👋 Hola, soy Daniel Vela
 
-💻 Desarrollador de software enfocado en desarrollo móvil y web
+💻 Desarrollador de software enfocado en desarrollo móvil y web.
 🎓 Ingeniero en Sistemas Computacionales (en proceso de titulación)
 📍 México
 
