@@ -20,7 +20,7 @@
 
 ## 📌 Proyectos destacados
 
-### 📱 App para comercio directo
+(https://github.com/danielvela2323/AgroUnion.git) 📱 App para comercio directo
 
 Aplicación Android que conecta productores con empresas sin intermediarios.
 
