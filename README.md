@@ -24,11 +24,11 @@
 
 Aplicación Android que conecta productores con empresas sin intermediarios.
 
-### 🛒 [Tienda online](https://github.com/danielvela2323/Sistema-de-inventario-.git)   
+### 🛒 [Tienda online]
 
 Sistema web con base de datos MySQL para gestión de productos y ventas.
 
-### 📊 Sistema de inventario
+### 📊 [Sistema de inventario](https://github.com/danielvela2323/Sistema-de-inventario-.git)     
 
 Aplicación para control de stock en una boutique.
 
